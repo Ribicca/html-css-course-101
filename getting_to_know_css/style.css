@@ -1,0 +1,58 @@
+p {
+  background: orange;
+  font-size: 24px;
+}
+p {
+  background: green;
+}
+p {
+  background: orange;
+  background: green;
+}
+#food {
+  background: green;
+}
+p {
+  background: orange;
+}
+.hotdog p {
+  background: brown;
+}
+.hotdog p.mustard {
+  background: yellow;
+}
+.hotdog p.mustard {
+  background: yellow;
+}
+.hotdog p {
+  background: brown;
+}
+.btn {
+  font-size: 16px;
+}
+.btn-danger {
+  background: red;
+}
+.btn-success {
+  background: green;
+}
+.task {
+  background: maroon;
+}
+.count {
+  background: yellow;
+}
+.task {
+  background: #800000;
+}
+.count {
+  background: #ff0;
+}
+.col {
+  width: 50%;
+}
+.banner {
+  font-size: 14px;
+  width: 5em;
+}
+
